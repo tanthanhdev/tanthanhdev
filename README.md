@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently building **LingoMind**
 
-- 💬 Ask me about **Django/NextJS**
+- 💬 Ask me about **Django/DRF/NextJS**
 
 - 📫 How to reach me **tanthanhdev@gmail.com**
 
