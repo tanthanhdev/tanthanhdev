@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanthanhdev&label=Profile%20views&color=0e75b6&style=flat" alt="tanthanhdev" /> </p>
 
-- 🌱 I’m currently building **LingoMind**
+- 🌱 I’m currently building **LingoMind/Tech-Notes-Hub**
 
 - 💬 Ask me about **Django/DRF/NextJS**
 
